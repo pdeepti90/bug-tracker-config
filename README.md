@@ -1,1 +1,1 @@
-bug tracker repo
+bug tracker repo - config server
